@@ -1,0 +1,51 @@
+lead_id,industry,company_size,deal_size,source,last_activity_days,engagement_score
+N0000,Retail,Medium,99000,Web,19,68.6
+N0001,Finance,Medium,13000,Cold Call,47,99.3
+N0002,Retail,Large,21000,Web,46,40.5
+N0003,Retail,Large,13000,Web,58,19.0
+N0004,Tech,Large,16000,Referral,36,48.8
+N0005,Retail,Medium,19000,Web,19,50.2
+N0006,Retail,Small,97000,Web,47,40.3
+N0007,Finance,Small,24000,Web,55,18.1
+N0008,Health,Large,93000,Event,74,4.8
+N0009,Retail,Medium,80000,Cold Call,82,60.5
+N0010,Health,Small,22000,Event,63,26.6
+N0011,Finance,Large,64000,Referral,68,88.1
+N0012,Retail,Large,37000,Referral,12,58.4
+N0013,Finance,Large,48000,Web,27,47.7
+N0014,Tech,Large,27000,Event,76,17.2
+N0015,Finance,Medium,71000,Event,11,5.7
+N0016,Retail,Large,84000,Referral,4,15.7
+N0017,Health,Small,75000,Event,46,33.9
+N0018,Finance,Medium,57000,Event,59,44.1
+N0019,Tech,Small,26000,Web,60,68.4
+N0020,Retail,Large,15000,Cold Call,24,20.6
+N0021,Tech,Small,96000,Event,26,61.6
+N0022,Health,Large,56000,Web,28,92.4
+N0023,Finance,Medium,25000,Web,58,8.0
+N0024,Health,Large,69000,Referral,4,48.5
+N0025,Retail,Small,50000,Event,79,69.9
+N0026,Finance,Large,35000,Cold Call,86,8.2
+N0027,Tech,Large,55000,Referral,60,86.9
+N0028,Tech,Small,59000,Cold Call,49,43.3
+N0029,Tech,Large,10000,Referral,57,49.4
+N0030,Tech,Medium,45000,Web,88,49.6
+N0031,Finance,Large,39000,Cold Call,88,37.1
+N0032,Health,Medium,11000,Referral,5,92.2
+N0033,Health,Medium,93000,Cold Call,70,84.1
+N0034,Retail,Large,78000,Referral,57,65.6
+N0035,Tech,Small,40000,Event,61,46.3
+N0036,Health,Small,17000,Web,10,56.5
+N0037,Retail,Medium,70000,Cold Call,67,42.4
+N0038,Tech,Small,75000,Cold Call,34,28.8
+N0039,Health,Large,86000,Referral,70,26.4
+N0040,Tech,Medium,77000,Cold Call,10,69.1
+N0041,Finance,Medium,54000,Referral,80,83.3
+N0042,Tech,Small,61000,Web,29,59.2
+N0043,Health,Medium,17000,Event,67,46.7
+N0044,Finance,Medium,98000,Cold Call,11,67.4
+N0045,Health,Small,80000,Referral,4,39.1
+N0046,Tech,Small,23000,Referral,49,70.2
+N0047,Tech,Medium,38000,Event,4,96.6
+N0048,Tech,Large,73000,Referral,24,9.1
+N0049,Retail,Medium,94000,Event,56,5.8
